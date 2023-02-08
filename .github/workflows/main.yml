@@ -17,5 +17,5 @@ jobs:
           project_name: test1
           cx_tenant: single-tenant-perf
           base_uri: https://cxst.perf.cxast.net/ 
-          cx_client_id: ${{ secrets.CLIENT_ID }}
-          cx_client_secret: ${{ secrets.SECRET }}
+          cx_client_id: Jenkins
+          cx_client_secret: WKTu5aGgJhUl3YB2bjfi1uIcVLyfsn1n
