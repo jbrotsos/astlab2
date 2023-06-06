@@ -13,7 +13,7 @@ import java.sql.ResultSet;
 
 import javax.servlet.http.HttpServletRequest;
 
-// Class Declaration
+// Class DeclarationS
 class Login
 {
     public static void main(String[] args)   
